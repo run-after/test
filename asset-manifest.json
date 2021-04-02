@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.9540ee45.chunk.css",
+    "main.js": "/test/static/js/main.9e20aee7.chunk.js",
+    "main.js.map": "/test/static/js/main.9e20aee7.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.9952e389.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.9952e389.js.map",
+    "static/js/2.d13aec25.chunk.js": "/test/static/js/2.d13aec25.chunk.js",
+    "static/js/2.d13aec25.chunk.js.map": "/test/static/js/2.d13aec25.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.9540ee45.chunk.css.map": "/test/static/css/main.9540ee45.chunk.css.map",
+    "static/js/2.d13aec25.chunk.js.LICENSE.txt": "/test/static/js/2.d13aec25.chunk.js.LICENSE.txt",
+    "static/media/ChaseStearn.9362928b.pdf": "/test/static/media/ChaseStearn.9362928b.pdf",
+    "static/media/battleship-screenshot.9cea60df.jpg": "/test/static/media/battleship-screenshot.9cea60df.jpg",
+    "static/media/css.bbc17b2b.jpg": "/test/static/media/css.bbc17b2b.jpg",
+    "static/media/cv.49b6264f.png": "/test/static/media/cv.49b6264f.png",
+    "static/media/email.60c5038e.png": "/test/static/media/email.60c5038e.png",
+    "static/media/firebase.7516de47.png": "/test/static/media/firebase.7516de47.png",
+    "static/media/git.75259729.png": "/test/static/media/git.75259729.png",
+    "static/media/github.790519a3.png": "/test/static/media/github.790519a3.png",
+    "static/media/html.338ba4f1.png": "/test/static/media/html.338ba4f1.png",
+    "static/media/javascript.3abb3de3.png": "/test/static/media/javascript.3abb3de3.png",
+    "static/media/jest.aaf647cb.png": "/test/static/media/jest.aaf647cb.png",
+    "static/media/memory-card-screenshot.4377323f.jpg": "/test/static/media/memory-card-screenshot.4377323f.jpg",
+    "static/media/rails.857d5c59.png": "/test/static/media/rails.857d5c59.png",
+    "static/media/react.26c920e9.png": "/test/static/media/react.26c920e9.png",
+    "static/media/readit-screenshot.0af7812c.png": "/test/static/media/readit-screenshot.0af7812c.png",
+    "static/media/ruby.44bef72c.png": "/test/static/media/ruby.44bef72c.png",
+    "static/media/App.css": "/test/static/media/tenor.3c891083.gif",
+    "static/media/webpack.2ffba0d5.png": "/test/static/media/webpack.2ffba0d5.png",
+    "static/media/wheres-waldo-screenshot.d40a8edc.jpg": "/test/static/media/wheres-waldo-screenshot.d40a8edc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9952e389.js",
+    "static/js/2.d13aec25.chunk.js",
+    "static/css/main.9540ee45.chunk.css",
+    "static/js/main.9e20aee7.chunk.js"
+  ]
+}
